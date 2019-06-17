@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(90,13,73,0.84);
+}
+.save_div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    height: 25px;
+    width: 120%;
+    margin-bottom: 10px;
+}
+.sbtn{
+    width: 60%;
+    margin-left: 30%;
+}
+.sbtn:hover{
+    background-color: rgba(15,23,62,0.89);
+    color: white;
+    border-radius: 5px;
+}
+.vlink{
+    text-decoration: none;
+    width: 50%;
+    margin-left: 35%;
+    color: black;
+}
+.adlink{
+    float: right;
+    margin-bottom: 20px;
+
+}
+.mdlttl{
+   color: black;
+}
